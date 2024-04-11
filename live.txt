@@ -19,7 +19,7 @@
 
 CGTN-英语,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN-英语,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8?sign=1652235852-b3d2d3595f8f9f6fb0779c5a9a7d0285
-中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
+CGTN-英语,http://live.cgtn.com/500/prog_index.m3u8
 
 # http://home.jundie.top:81/Cat/tv/live.txt
 CCTV-1,http://8.134.211.236:13556/china/cctv.php?id=cctv1
