@@ -13,6 +13,8 @@
 凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
 凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://39.134.18.196:80/wh7f454c46tw2172490011_-1360941031/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8?icpid=88888890&RTS=1707328982&from=20&ocs=2_111.20.45.169_80&hms_devid=8368&online=1707328982&vqe=3
+凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
 凤凰香港,http://113.64.145.61:8081/hls/38/index.m3u8
 凤凰香港,http://50.7.238.114:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a
 凤凰香港,http://50.7.238.114:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
@@ -42,8 +44,20 @@
 江苏卫视,http://171.8.245.48:808/hls/30/index.m3u8
 
 CCTV-1,http://123.10.76.176:808/hls/1/index.m3u8
-CCTV-1,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-CCTV-1,http://stream.smntv.cn/smtv1/sd/live.m3u8
+CCTV-2,http://123.10.76.176:808/hls/2/index.m3u8
+CCTV-3,http://123.10.76.176:808/hls/3/index.m3u8
+CCTV-4,http://123.10.76.176:808/hls/4/index.m3u8
+CCTV-5,http://123.10.76.176:808/hls/5/index.m3u8
+CCTV-6,http://123.10.76.176:808/hls/6/index.m3u8
+CCTV-7,http://123.10.76.176:808/hls/7/index.m3u8
+CCTV-8,http://123.10.76.176:808/hls/8/index.m3u8
+CCTV-9,http://123.10.76.176:808/hls/9/index.m3u8
+CCTV-10,http://123.10.76.176:808/hls/10/index.m3u8
+CCTV-11,http://123.10.76.176:808/hls/11/index.m3u8
+CCTV-12,http://123.10.76.176:808/hls/12/index.m3u8
+CCTV-13,http://123.10.76.176:808/hls/13/index.m3u8
+CCTV-14,http://123.10.76.176:808/hls/14/index.m3u8
+CCTV-15,http://123.10.76.176:808/hls/15/index.m3u8
 CCTV-1,http://111.126.255.122:808/hls/101/index.m3u8
 CCTV-1,http://123.187.46.90:65000/hls/1/index.m3u8
 CCTV-2,http://111.11.98.205:9900/hls/2/index.m3u8
