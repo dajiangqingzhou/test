@@ -19,6 +19,13 @@
 凤凰香港,http://50.7.238.114:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a
 凤凰香港,http://50.7.238.114:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 
+湖南卫视,http://123.10.76.176:808/hls/33/index.m3u8
+江苏卫视,http://123.10.76.176:808/hls/34/index.m3u8
+浙江卫视,http://123.10.76.176:808/hls/35/index.m3u8
+东方卫视,http://123.10.76.176:808/hls/37/index.m3u8
+安徽卫视,http://123.10.76.176:808/hls/40/index.m3u8
+广东卫视,http://123.10.76.176:808/hls/51/index.m3u8
+
 江苏卫视,http://116.21.123.204:4433/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://116.21.123.204:4433/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://113.218.218.5:8001/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
