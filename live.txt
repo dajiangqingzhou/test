@@ -50,6 +50,27 @@
 江苏卫视,http://61.182.33.218:8000/hls/18/index.m3u8
 江苏卫视,http://171.8.245.48:808/hls/30/index.m3u8
 
+CCTV-1,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?msisdn=19166248686&Channel_ID=0119_04102000-99000_400300000040002&client_ip=36.1.75.30&timestamp=20240414063828&encrypt=dd21efdcf4eab45d07a968572896f84f&ContentId=265183188&timezone=UTC
+
+CCTV-3,http://live.aikan.miguvideo.com/wd_r2/ocn/cctv3hd/3000/index.m3u8?msisdn=19166248686&Channel_ID=0119_04102000-99000_400300000040002&client_ip=36.1.75.30&timestamp=20240414063833&encrypt=698308cd5de792b26bf3cf60ccada074&ContentId=265667206&timezone=UTC
+CCTV-4,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv4hd/3000/index.m3u8?msisdn=19166248686&Channel_ID=0119_04102000-99000_400300000040002&client_ip=36.1.75.30&timestamp=20240414063834&encrypt=d272e146d2b245c035d8009d371b2f8d&ContentId=265667639&timezone=UTC
+CCTV-5,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=19166248686&Channel_ID=0119_04102000-99000_400300000040002&client_ip=36.1.75.30&timestamp=20240414063836&encrypt=26aa80df656fd3d856f066897c68f275&ContentId=265667565&timezone=UTC
+CCTV-6,http://live.aikan.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?msisdn=19166248686&Channel_ID=0119_04102000-99000_400300000040002&client_ip=36.1.75.30&timestamp=20240414063840&encrypt=8b70b29adbb2d6b45c65a1f1caaafc5b&ContentId=265667482&timezone=UTC
+
+CCTV-7,http://live.aikan.miguvideo.com/migu/kailu/20200324/cctv7hd/57/index.m3u8?msisdn=19166248686&Channel_ID=0119_04102000-99000_400300000040002&client_ip=36.1.75.30&timestamp=20240414063841&encrypt=6c8620de9045730e0077859120e04327&ContentId=265667268&timezone=UTC
+CCTV-8,http://live.aikan.miguvideo.com/wd_r2/ocn/cctv8hd/3000/index.m3u8?msisdn=19166248686&Channel_ID=0119_04102000-99000_400300000040002&client_ip=36.1.75.30&timestamp=20240414063843&encrypt=7ed23118bf07a140b727114581790a56&ContentId=265667466&timezone=UTC
+CCTV-9,http://live.aikan.miguvideo.com/migu/kailu/20200324/cctv9hd/57/index.m3u8?msisdn=19166248686&Channel_ID=0119_04102000-99000_400300000040002&client_ip=36.1.75.30&timestamp=20240414063845&encrypt=06d82dd617f16589b0d2a4b6612340a9&ContentId=265667202&timezone=UTC
+CCTV-10,http://live.aikan.miguvideo.com/wd_r2/ocn/cctv10hd/3000/index.m3u8?msisdn=19166248686&Channel_ID=0119_04102000-99000_400300000040002&client_ip=36.1.75.30&timestamp=20240414063846&encrypt=d04c52a38f30799ba7da54f749fcaf57&ContentId=265667631&timezone=UTC
+CCTV-11,http://live.aikan.miguvideo.com/migu/kailu/cctv11hd/57/20200103/index.m3u8?msisdn=19166248686&Channel_ID=0119_04102000-99000_400300000040002&client_ip=36.1.75.30&timestamp=20240414063848&encrypt=dfe21aaf901a5870055d0a9d9b9e7ecd&ContentId=265667429&timezone=UTC
+CCTV-12,http://live.aikan.miguvideo.com/migu/kailu/20200324/cctv12hd/57/index.m3u8?msisdn=19166248686&Channel_ID=0119_04102000-99000_400300000040002&client_ip=36.1.75.30&timestamp=20240414063849&encrypt=e8bddebf8d87604596b38687717cc910&ContentId=265667607&timezone=UTC
+CCTV-13,http://live.aikan.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=19166248686&Channel_ID=0119_04102000-99000_400300000040002&client_ip=36.1.75.30&timestamp=20240414063850&encrypt=754e25b1b821443b13013a0d6047bb6e&ContentId=265667474&timezone=UTC
+CCTV-14,http://live.aikan.miguvideo.com/wd_r2/ocn/cctv14hd/3000/index.m3u8?msisdn=19166248686&Channel_ID=0119_04102000-99000_400300000040002&client_ip=36.1.75.30&timestamp=20240414063852&encrypt=18e66a6642f851d6025687a31db8d28c&ContentId=265667325&timezone=UTC
+CCTV-15,http://live.aikan.miguvideo.com/migu/kailu/20200324/cctv15hd/57/index.m3u8?msisdn=19166248686&Channel_ID=0119_04102000-99000_400300000040002&client_ip=36.1.75.30&timestamp=20240414063853&encrypt=32e29806a3cab8ecd3d40db20131b27f&ContentId=265667535&timezone=UTC
+CCTV-5+,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?msisdn=19166248686&Channel_ID=0119_04102000-99000_400300000040002&client_ip=36.1.75.30&timestamp=20240414063838&encrypt=d54e760cf313a25d1cb5c06d68ec743c&ContentId=265106763&timezone=UTC
+CCTV-17,http://live.aikan.miguvideo.com/migu/kailu/20200324/cctv17hd/57/index.m3u8?msisdn=19166248686&Channel_ID=0119_04102000-99000_400300000040002&client_ip=36.1.75.30&timestamp=20240414063855&encrypt=2edad40bcc501049453a82e8818d360b&ContentId=265667526&timezone=UTC
+
+
+
 CCTV-1,http://123.10.76.176:808/hls/1/index.m3u8
 CCTV-2,http://123.10.76.176:808/hls/2/index.m3u8
 CCTV-3,http://123.10.76.176:808/hls/3/index.m3u8
