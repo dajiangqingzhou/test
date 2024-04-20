@@ -9,12 +9,8 @@
             "name":"肥猫线路"
         },
         {
-            "url":"https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
-            "name":"PG线路"
-        },
-        {
-            "url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name":"南风线路"
+            "url": "http://xhztv.top/4k.json",
+            "name":"小盒4k"
         },
         {
             "url":"https://pastebin.com/raw/5NHaxyGR",
@@ -51,11 +47,7 @@
         {
             "url": "http://rihou.cc:88/荷城茶秀",
             "name": "荷城茶秀"
-        },  		
-        {
-            "url": "https://cn.kstore.space/download/2863/01.txt",
-            "name": "潇洒线路"
-        },
+        },  
         {
             "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
             "name": "D佬魔改线路"
@@ -67,6 +59,10 @@
         {
             "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name":"高天流云"
+        },
+        {
+            "url":"https://raw.gitmirror.com/2hacc/TVBox/main/tvbox.json",
+            "name":"github 2hacc"
         }
     ]
 }
